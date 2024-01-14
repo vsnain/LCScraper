@@ -31,5 +31,5 @@ end_page = 100
 to give different start and end page to different repls to make scraping faster by running 15 repls in parallel. 
 ## Screenshots
 
-![Alt text](Screenshot 2024-01-14 123335.png?raw=true "Optional Title")
+![Alt text]([Screenshot 2024-01-14 123335.png](https://github.com/vsnain/LCScraper/blob/main/Screenshot%202024-01-14%20123335.png)?raw=true "Optional Title")
 
