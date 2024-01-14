@@ -17,6 +17,7 @@ Simply clone on replit.com
 ```bash
   Run main.py
 ```
+The results are stored in leetcode_results.json.
     
 ## Too Slow?
 
