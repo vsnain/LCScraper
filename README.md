@@ -31,5 +31,6 @@ end_page = 100
 to give different start and end page to different repls to make scraping faster by running 15 repls in parallel. 
 ## Screenshots
 
-![solarized vim](https://github.com/vsnain/LCScraper/blob/main/Screenshot%202024-01-14%20123335.png)
+![Results](https://github.com/vsnain/LCScraper/blob/main/Screenshot%202024-01-14%20123335.png)
+![Contest Screen](https://github.com/vsnain/LCScraper/blob/main/Screenshot%202024-01-14%20123259.png)
 
